@@ -8,33 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d85c224683321ec",
+            "id": "8c353f1d24129115",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
-                "page": 32,
-                "left": -24,
-                "top": 10,
-                "zoom": 0.615625
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "75aa4113d18475de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97d6e45de66358f9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Autonomous Networking/notes/2 RFID.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
+                "file": "Autonomous Networking/notes/2 RFID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
+                "file": "Autonomous Networking/notes/2 RFID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE1_Introduzione.pdf"
+                "file": "Autonomous Networking/notes/2 RFID.md"
               }
             }
           },
@@ -161,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,23 +159,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97d6e45de66358f9",
+  "active": "8c353f1d24129115",
   "lastOpenFiles": [
+    "Autonomous Networking/slides/2 RFID.pdf",
+    "Autonomous Networking/images/Pasted image 20240928134852.png",
+    "Autonomous Networking/images/Pasted image 20240928140723.png",
+    "Autonomous Networking/images/Pasted image 20240928193321.png",
+    "Autonomous Networking/images",
+    "Autonomous Networking/images/Pasted image 20240928143319.png",
+    "Autonomous Networking/notes/2 RFID.md",
+    "Autonomous Networking/images/Pasted image 20240928193303.png",
+    "Autonomous Networking/images/Pasted image 20240928193208.png",
+    "Autonomous Networking/images/Pasted image 20240928191316.png",
+    "Autonomous Networking/images/Pasted image 20240928183123.png",
+    "Autonomous Networking/images/Pasted image 20240928181424.png",
+    "Autonomous Networking/images/Pasted image 20240928181304.png",
+    "Autonomous Networking/notes",
+    "Autonomous Networking/slides",
+    "Autonomous Networking",
     "Biometric Systems/final notes/1. Introduction.md",
     "LICENSE",
     "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
     "Biometric Systems/slides/lezione1 notes.md",
-    "Biometric Systems/images/architecture - recognition.png",
-    "Biometric Systems/images/architecture - enrollment.png",
     "Biometric Systems/images",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
     "prova per obsidian.md",
     "Biometric Systems/final notes",
-    "Biometric Systems/slides",
-    "Biometric Systems",
-    "Senza nome.canvas",
-    "bachelor_presentation-1.pdf",
-    "bachelor_presentation-1 2.pdf",
-    "bachelor_presentation-1 1.pdf"
+    "Senza nome.canvas"
   ]
 }
