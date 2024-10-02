@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-                "page": 13,
-                "left": -21,
-                "top": 6,
-                "zoom": 0.7229166666666665
+                "page": 19,
+                "left": -26,
+                "top": 410,
+                "zoom": 0.5666666666666667
               }
             }
           },
@@ -28,15 +28,14 @@
               "type": "pdf",
               "state": {
                 "file": "Autonomous Networking/slides/3 WSN.pdf",
-                "page": 74,
+                "page": 73,
                 "left": -26,
-                "top": 419,
+                "top": 248,
                 "zoom": 0.5666666666666667
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "730530e270323c7d",
@@ -46,15 +45,26 @@
             "id": "06d416b60db86f57",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Autonomous Networking/images/Pasted image 20241002114133.png"
+              }
+            }
+          },
+          {
+            "id": "abce0da557ee63e7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Biometric Systems/final notes/2. Performance indexes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md"
+                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf"
               }
             }
           },
@@ -195,27 +205,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06d416b60db86f57",
+  "active": "fce83e74db3de5b7",
   "lastOpenFiles": [
-    "Autonomous Networking/slides/3 WSN.pdf",
-    "Autonomous Networking/notes/3 WSN.md",
-    "Pasted image 20241002235837.png",
-    "Pasted image 20241002235555.png",
-    "Pasted image 20241002235259.png",
-    "Pasted image 20241002235016.png",
-    "Pasted image 20241002234319.png",
-    "Pasted image 20241002233803.png",
+    "Biometric Systems/final notes/2. Performance indexes.md",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-    "Biometric Systems/final notes/Untitled.md",
-    "Biometric Systems/final notes/1. Introduction.md",
-    "[LEZIONE2_Indici_di_prestazione.pdf.md",
-    "[[[LEZIONE2_Indici_di_prestazione.pdf.md",
+    "Autonomous Networking/images/Pasted image 20241002235837.png",
     "().md",
     "a.md",
-    "Pasted image 20241002181936.png",
-    "Pasted image 20241002181932.png",
-    "Pasted image 20241002135922.png",
-    "Pasted image 20241002114133.png",
+    "[[[LEZIONE2_Indici_di_prestazione.pdf.md",
+    "[LEZIONE2_Indici_di_prestazione.pdf.md",
+    "Autonomous Networking/images/Pasted image 20241002235555.png",
+    "Autonomous Networking/images/Pasted image 20241002235259.png",
+    "Autonomous Networking/images/Pasted image 20241002235016.png",
+    "Autonomous Networking/images/Pasted image 20241002234319.png",
+    "Autonomous Networking/images/Pasted image 20241002233803.png",
+    "Biometric Systems/images/Pasted image 20241002181932.png",
+    "Biometric Systems/images/Pasted image 20241002181936.png",
+    "Biometric Systems/images/Pasted image 20241002135922.png",
+    "Autonomous Networking/images/Pasted image 20241002114133.png",
+    "Autonomous Networking/notes/3 WSN.md",
+    "Autonomous Networking/slides/3 WSN.pdf",
+    "Biometric Systems/final notes/1. Introduction.md",
     "Foundation of data science/slides/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Autonomous Networking/slides/2 RFID.pdf",
