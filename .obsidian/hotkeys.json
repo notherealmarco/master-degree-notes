@@ -1,0 +1,10 @@
+{
+  "mathlive-in-editor-mode:toggle-mathfield": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "'"
+    }
+  ]
+}

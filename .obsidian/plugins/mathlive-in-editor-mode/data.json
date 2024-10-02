@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "display": false,
   "blockDisplay": false,
   "blockMenuIcon": false,
   "blockKeyboardIcon": false,
+=======
+  "display": true,
+  "blockDisplay": true,
+  "blockMenuIcon": true,
+  "blockKeyboardIcon": true,
+>>>>>>> origin/main
   "inlineDisplay": false,
   "inlineMenuIcon": false,
   "inlineKeyboardIcon": false

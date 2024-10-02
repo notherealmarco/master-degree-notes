@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "160ca1e7ba4d7af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundation of data science/slides/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundation of data science/slides/Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundation of data science/slides/Untitled.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -159,10 +172,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d5551c2fd0314c8",
+  "active": "160ca1e7ba4d7af7",
   "lastOpenFiles": [
-    "Foundation of data science/slides/notes 2.md",
     "Foundation of data science/slides/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Autonomous Networking/slides/2 RFID.pdf",
+    "Autonomous Networking/notes/2 RFID.md",
+    "Autonomous Networking/images/Pasted image 20240928193321.png",
+    "Autonomous Networking/images/Pasted image 20240928193303.png",
+    "Autonomous Networking/images/Pasted image 20240928193208.png",
+    "Autonomous Networking/images/Pasted image 20240928191316.png",
+    "Autonomous Networking/images/Pasted image 20240928183123.png",
+    "Autonomous Networking/images/Pasted image 20240928181424.png",
+    "Autonomous Networking/images/Pasted image 20240928181304.png",
+    "Autonomous Networking/images/Pasted image 20240928175441.png",
+    "Autonomous Networking/images/Pasted image 20240928165943.png",
+    "Autonomous Networking/images/Pasted image 20240928165439.png",
+    "Autonomous Networking/slides",
+    "Autonomous Networking/notes",
+    "Autonomous Networking/images",
+    "Autonomous Networking",
+    "Foundation of data science/slides/notes 2.md",
     "Foundation of data science/slides/FDS_intro_new.pdf",
     "Biometric Systems/final notes/1. Introduction.md",
     "Foundation of data science/slides",
@@ -170,13 +200,6 @@
     "LICENSE",
     "Biometric Systems/slides/lezione1 notes.md",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-    "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
-    "Biometric Systems/images/architecture - recognition.png",
-    "Biometric Systems/images/architecture - enrollment.png",
-    "Biometric Systems/slides",
-    "Biometric Systems/images",
-    "Biometric Systems/final notes",
-    "Biometric Systems",
     "Untitled.canvas",
     "Untitled.md"
   ]
