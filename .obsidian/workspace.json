@@ -1,40 +1,21 @@
 {
   "main": {
-    "id": "9c5b007ab74924bc",
+    "id": "457b1626aad25933",
     "type": "split",
     "children": [
       {
-        "id": "7836cf4d439bcdf6",
+        "id": "a4a0be807e701f64",
         "type": "tabs",
         "children": [
           {
-            "id": "1d85c224683321ec",
+            "id": "1391874bd127fece",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
-                "page": 32,
-                "left": -24,
-                "top": 6,
-                "zoom": 0.615625
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "75aa4113d18475de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97d6e45de66358f9",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Foundation of data science/slides/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -44,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e2078ffa3de56c07",
+    "id": "6a3cb9001ef6ba4d",
     "type": "split",
     "children": [
       {
-        "id": "d86cb8d8115f9e4b",
+        "id": "c0a60ed96ba06609",
         "type": "tabs",
         "children": [
           {
-            "id": "2b2245f56092006e",
+            "id": "5d5551c2fd0314c8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +43,7 @@
             }
           },
           {
-            "id": "954699747dc12b5e",
+            "id": "a4bcc1c786569338",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +58,7 @@
             }
           },
           {
-            "id": "71e92c2ed6f6f21c",
+            "id": "2dfc44e60fc51bbe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bc4b945ded1926e3",
+    "id": "11560c155f3d8f6e",
     "type": "split",
     "children": [
       {
-        "id": "00a3201508c9b6f7",
+        "id": "95208597e1d680ae",
         "type": "tabs",
         "children": [
           {
-            "id": "34cc5dc90419b254",
+            "id": "3c35a40edfa1f381",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Foundation of data science/slides/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,18 +97,19 @@
             }
           },
           {
-            "id": "f4a0915b879a43cd",
+            "id": "926b8cdb0ccf5242",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Foundation of data science/slides/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c12ba700d0604b95",
+            "id": "9fbde0b1f6b76a5d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,15 +120,17 @@
             }
           },
           {
-            "id": "77997770a5699d72",
+            "id": "7745bbb89c3a5344",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Foundation of data science/slides/Untitled.md"
+              }
             }
           },
           {
-            "id": "0d5325c0f9289cea",
+            "id": "b5d8a3515919e28a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,40 +142,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
       "obsidian-ocr:Search OCR": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97d6e45de66358f9",
+  "active": "5d5551c2fd0314c8",
   "lastOpenFiles": [
+    "Foundation of data science/slides/notes 2.md",
+    "Foundation of data science/slides/Untitled.md",
+    "Foundation of data science/slides/FDS_intro_new.pdf",
     "Biometric Systems/final notes/1. Introduction.md",
+    "Foundation of data science/slides",
+    "Foundation of data science",
     "LICENSE",
-    "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
     "Biometric Systems/slides/lezione1 notes.md",
+    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+    "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
     "Biometric Systems/images/architecture - recognition.png",
     "Biometric Systems/images/architecture - enrollment.png",
-    "Biometric Systems/images",
-    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-    "prova per obsidian.md",
-    "Biometric Systems/final notes",
     "Biometric Systems/slides",
+    "Biometric Systems/images",
+    "Biometric Systems/final notes",
     "Biometric Systems",
-    "Senza nome.canvas",
-    "bachelor_presentation-1.pdf",
-    "bachelor_presentation-1 2.pdf",
-    "bachelor_presentation-1 1.pdf"
+    "Untitled.canvas",
+    "Untitled.md"
   ]
 }
