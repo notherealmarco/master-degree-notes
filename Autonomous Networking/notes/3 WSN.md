@@ -107,7 +107,87 @@ We use **SNR** to measure the ratio of good to bad signal (signal to noise). Hig
 > nodes have clocks but they may not be synchronized!
 
 To address these issues, we use MAC protocols. We need a protocol suitable for wireless networks, which emphasize energy-efficient operation.
+
+##### MAC protocols:
+- controls how the shared medium is used by different devices
+- controls when to send a packet and when to listen for a packet
+- avoids collisions, reducing retransmissions
+- increases energy efficiency, aviding idle listening
+- allows scalability, lower latency, fairness and better throughput
+
+##### Reasons of energy waste:
+- collisions
+- overhearing: a node receive packets destined to others
+- overhead caused by control-packets
+- idle listening
+- overemitting: transmitting before the destination node is ready
+
+#### Techniques for WSN MAC
+- Contention based
+	- on-demand allocation for those that have frames for transmission
+	- sensing the carrier before transmitting
+	- scalable, no center authority
+	- idle listening / interference / collisions / traffic fluctutations -> higher energy consumption
+	- hidden/exposed terminal problem
+- Scheduled based:
+	- schedule that specifies when, and for how long, each node may transmit over the shared medium
+	- energy efficient
+	- interference, collisions are not a problem
+	- synchronization is a problem
+	- there is a central authority
 ### CSMA/CA
+In wireless network we cannot detect collisions and interrupt an ongoing transmission. But we can try to avoid them as much as possible.
+
+
 ![[Pasted image 20241002114133.png]]
 
-IFS is random, so hopefully only a node starts transmitting at the same time.
+Contention window is random, so hopefully only a node starts transmitting at the same time. The backoff clock is randomly chosen between [0, CW-1], where CW represents a contention window.
+
+The first station whose clock expires starts transmission. Other terminals sense the new transmission and freeze their clocks to be restarted after the completion of the current transmission in the next contention period. Length of backoff time is exponentially increased (doubled) as the station goes through successive retransmissions.
+
+![[Pasted image 20241002234319.png]]
+
+By using different IFS sizes, we can prioritize some packets.
+- SIFS is used for immediate responses (ACK, CTS, polling response)
+- PIFS (Point coordination function IFS): medium priority, for real time services, is SIFS + 1 time slot
+- DIFS (Distributed coordination funcion IFS): lowest priority, for async data service, is SIFS + 2 time slots
+
+#### DFC CSMA/CA with ACK
+- stations has to wait for DIFS before sending data
+- receiver ACKs immediately (after waiting for SIFS) if the packet was received correctly (CRC is valid)
+- ACK is transmitted without sensing the medium
+- if ACK is lost, retransmission will be done
+
+![[Pasted image 20241002235016.png]]
+
+
+#### Problems
+- Hidden terminal
+- Exposed terminal
+
+We fix both of them with RTS/CTS:
+- transmitter sends an RTS (request to send) after medium has benn idle for time interval more than DIFS
+- receiver responds with CTS (clear to send) after medium has been idle for SIFS
+- data is transmitted
+- RTS/CTS is used for **reserving channel** for data transmission so that the collision can only occur in control message.
+![[Pasted image 20241002235259.png]]
+
+Both of the problems are solved!
+
+However, collisions are still possible as RTS packets can collide. But RTS packets are small, RTS collisions are not as bad as data collisions.
+
+### Network Allocation Vector (NAV)
+- provides *Virtual Carrier sensing*
+- most 802.11 frames carry a duration field
+- transmitter sets the NAV to the time for which it expects to use the medium
+- other stations starts counting down from NAV to 0
+- If NAV > 1, transmission is delayed. When NAV = 0, carrier is sensed.
+
+![[Pasted image 20241002235837.png]]
+
+##### CSMA/CA with RTS/CTS (NAV)
+- receiver receives RTS and sends CTS after SIFS
+- CTS again contains duration field
+- all the stations receiving the CTS need to adjust their NAV
+- sender sends data after SIFS
+- receiver sends ACK after SIFS
