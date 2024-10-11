@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a0be807e701f64",
+        "id": "1f52c0279712e3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "fce83e74db3de5b7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-                "page": 19,
-                "left": -26,
-                "top": 410,
-                "zoom": 0.5666666666666667
-              }
-            }
-          },
-          {
-            "id": "24553d742ee49625",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Autonomous Networking/slides/3 WSN.pdf",
-                "page": 73,
-                "left": -26,
-                "top": 248,
-                "zoom": 0.5666666666666667
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "730530e270323c7d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "06d416b60db86f57",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Autonomous Networking/images/Pasted image 20241002114133.png"
-              }
-            }
-          },
-          {
-            "id": "abce0da557ee63e7",
+            "id": "e23f9dfc04a75f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biometric Systems/final notes/2. Performance indexes.md",
+                "file": "Autonomous Networking/notes/3 WSN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11560c155f3d8f6e",
@@ -131,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+                "file": "Autonomous Networking/notes/3 WSN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+                "file": "Autonomous Networking/notes/3 WSN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf"
+                "file": "Autonomous Networking/notes/3 WSN.md"
               }
             }
           },
@@ -205,10 +159,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fce83e74db3de5b7",
+  "floating": {
+    "id": "c11cc165af78efc3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2666a13ed8f30641",
+        "type": "window",
+        "children": [
+          {
+            "id": "24baa570d7787193",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d3383612587063d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Autonomous Networking/notes/4 WSN2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e23f9dfc04a75f51",
   "lastOpenFiles": [
-    "Biometric Systems/final notes/2. Performance indexes.md",
+    "Autonomous Networking/notes/4 WSN2.md",
+    "Autonomous Networking/notes/3 WSN.md",
+    "Autonomous Networking/slides/4 WSN2.pdf",
+    "Autonomous Networking/slides/3 WSN.pdf",
+    "Autonomous Networking/notes/2 RFID.md",
+    "Untitled.md",
+    "BUCA/Queues.md",
+    "BUCA",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+    "Biometric Systems/final notes/2. Performance indexes.md",
     "Autonomous Networking/images/Pasted image 20241002235837.png",
     "().md",
     "a.md",
@@ -223,23 +222,17 @@
     "Biometric Systems/images/Pasted image 20241002181936.png",
     "Biometric Systems/images/Pasted image 20241002135922.png",
     "Autonomous Networking/images/Pasted image 20241002114133.png",
-    "Autonomous Networking/notes/3 WSN.md",
-    "Autonomous Networking/slides/3 WSN.pdf",
     "Biometric Systems/final notes/1. Introduction.md",
     "Foundation of data science/slides/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Autonomous Networking/slides/2 RFID.pdf",
-    "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/slides",
     "Autonomous Networking/notes",
     "Autonomous Networking/images",
     "Autonomous Networking",
     "Foundation of data science/slides/notes 2.md",
     "Foundation of data science/slides/FDS_intro_new.pdf",
-    "Foundation of data science/slides",
-    "Foundation of data science",
     "Biometric Systems/slides/lezione1 notes.md",
-    "Untitled.canvas",
-    "Untitled.md"
+    "Untitled.canvas"
   ]
 }
