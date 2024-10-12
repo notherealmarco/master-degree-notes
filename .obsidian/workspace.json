@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md",
+                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Networking/notes/3 WSN.md"
+                "file": "Autonomous Networking/notes/4 WSN pt. 2.md"
               }
             }
           },
@@ -177,7 +177,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Autonomous Networking/notes/4 WSN2.md",
+                    "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
                     "mode": "source",
                     "source": false
                   }
@@ -198,12 +198,18 @@
   },
   "active": "e23f9dfc04a75f51",
   "lastOpenFiles": [
-    "Autonomous Networking/notes/4 WSN2.md",
-    "Autonomous Networking/notes/3 WSN.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
+    "Untitled.md",
+    "Autonomous Networking/notes/4 WSN pt. 2.md",
+    "Autonomous Networking/images/Pasted image 20241011191033.png",
+    "Autonomous Networking/images/Pasted image 20241011182343.png",
+    "Autonomous Networking/images/Pasted image 20241011182036.png",
+    "Autonomous Networking/images/Pasted image 20241011182031.png",
+    "Autonomous Networking/images/Pasted image 20241011180413.png",
+    "Autonomous Networking/images/Pasted image 20241011175026.png",
+    "Autonomous Networking/notes/3 WSN.md",
     "Autonomous Networking/slides/3 WSN.pdf",
     "Autonomous Networking/notes/2 RFID.md",
-    "Untitled.md",
     "BUCA/Queues.md",
     "BUCA",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
@@ -216,12 +222,6 @@
     "Autonomous Networking/images/Pasted image 20241002235555.png",
     "Autonomous Networking/images/Pasted image 20241002235259.png",
     "Autonomous Networking/images/Pasted image 20241002235016.png",
-    "Autonomous Networking/images/Pasted image 20241002234319.png",
-    "Autonomous Networking/images/Pasted image 20241002233803.png",
-    "Biometric Systems/images/Pasted image 20241002181932.png",
-    "Biometric Systems/images/Pasted image 20241002181936.png",
-    "Biometric Systems/images/Pasted image 20241002135922.png",
-    "Autonomous Networking/images/Pasted image 20241002114133.png",
     "Biometric Systems/final notes/1. Introduction.md",
     "Foundation of data science/slides/Untitled.md",
     "conflict-files-obsidian-git.md",
