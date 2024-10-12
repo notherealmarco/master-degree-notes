@@ -15,13 +15,26 @@
               "state": {
                 "file": "Autonomous Networking/slides/2 RFID.pdf",
                 "page": 39,
-                "left": -36,
-                "top": 525,
-                "zoom": 0.4114583333333333
+                "left": -11,
+                "top": 529,
+                "zoom": 1.3447916666666668
+              }
+            }
+          },
+          {
+            "id": "8f92d52482562d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/slides/2 RFID.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/slides/2 RFID.pdf",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Networking/slides/2 RFID.pdf"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -161,32 +174,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c353f1d24129115",
+  "active": "8f92d52482562d09",
   "lastOpenFiles": [
-    "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/slides/2 RFID.pdf",
-    "Autonomous Networking/images/Pasted image 20240928134852.png",
-    "Autonomous Networking/images/Pasted image 20240928140723.png",
-    "Autonomous Networking/images/Pasted image 20240928193321.png",
+    "conflict-files-obsidian-git.md",
+    "Foundation of data science/slides/notes 2.md",
+    "Foundation of data science/slides/Untitled.md",
+    "Foundation of data science/slides/FDS_intro_new.pdf",
+    "Foundation of data science/slides",
+    "Foundation of data science",
+    "Biometric Systems/images/Pasted image 20241002181936.png",
+    "Biometric Systems/images/Pasted image 20241002181932.png",
+    "Biometric Systems/images/Pasted image 20241002135922.png",
+    "Biometric Systems/final notes/2. Performance indexes.md",
+    "BUCA/Queues.md",
+    "BUCA",
+    "Autonomous Networking/slides/4 WSN2.pdf",
+    "Autonomous Networking/slides/3 WSN.pdf",
+    "Autonomous Networking/notes/4 WSN pt. 2.md",
+    "Autonomous Networking/notes/3 WSN.md",
+    "Autonomous Networking/images/Pasted image 20241011191033.png",
+    "Autonomous Networking/images/Pasted image 20241011182343.png",
+    "Autonomous Networking/images/Pasted image 20241011182036.png",
+    "Autonomous Networking/images/Pasted image 20241011182031.png",
+    "Autonomous Networking/images/Pasted image 20241011180413.png",
+    "Autonomous Networking/images/Pasted image 20241011175026.png",
+    "Autonomous Networking/images/Pasted image 20241002235837.png",
+    "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/images",
-    "Autonomous Networking/images/Pasted image 20240928143319.png",
-    "Autonomous Networking/images/Pasted image 20240928193303.png",
-    "Autonomous Networking/images/Pasted image 20240928193208.png",
-    "Autonomous Networking/images/Pasted image 20240928191316.png",
-    "Autonomous Networking/images/Pasted image 20240928183123.png",
-    "Autonomous Networking/images/Pasted image 20240928181424.png",
-    "Autonomous Networking/images/Pasted image 20240928181304.png",
     "Autonomous Networking/notes",
     "Autonomous Networking/slides",
-    "Autonomous Networking",
     "Biometric Systems/final notes/1. Introduction.md",
-    "LICENSE",
-    "Biometric Systems/slides/LEZIONE1_Introduzione.pdf",
     "Biometric Systems/slides/lezione1 notes.md",
-    "Biometric Systems/images",
-    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
     "prova per obsidian.md",
-    "Biometric Systems/final notes",
     "Senza nome.canvas"
   ]
 }
