@@ -4,6 +4,23 @@
     "type": "split",
     "children": [
       {
+        "id": "9d91d379fdd97b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973769883c6ae443",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Biometric Systems/notes/2. Performance indexes.md",
+                "staged": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "708a5933e5de1e88",
         "type": "tabs",
         "children": [
@@ -11,29 +28,14 @@
             "id": "b95c6a3bd8dada7d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "diff-view",
               "state": {
-                "file": "Autonomous Networking/slides/4 WSN2.pdf",
-                "page": 67,
-                "left": -22,
-                "top": 319,
-                "zoom": 0.6749999999999999
-              }
-            }
-          },
-          {
-            "id": "deeefdea451fa477",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Autonomous Networking/images/Pasted image 20241012174130.png"
+                "file": "Biometric Systems/final notes/2. Performance indexes.md",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/images/Pasted image 20241012174130.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/images/Pasted image 20241012174130.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Autonomous Networking/images/Pasted image 20241012174130.png"
-              }
+              "state": {}
             }
           },
           {
@@ -173,14 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b2245f56092006e",
+  "active": "973769883c6ae443",
   "lastOpenFiles": [
+    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+    "Biometric Systems/notes/2. Performance indexes.md",
     "Autonomous Networking/notes/4 WSN Routing.md",
-    "Autonomous Networking/notes/3 WSN MAC.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
+    "Autonomous Networking/images/Pasted image 20241012174130.png",
+    "Autonomous Networking/notes/3 WSN MAC.md",
     "Autonomous Networking/images/Pasted image 20241012182403.png",
     "Autonomous Networking/images/Pasted image 20241012175224.png",
-    "Autonomous Networking/images/Pasted image 20241012174130.png",
     "Autonomous Networking/slides/3 WSN.pdf",
     "conflict-files-obsidian-git.md",
     "Autonomous Networking/slides/2 RFID.pdf",
@@ -192,7 +192,6 @@
     "Biometric Systems/images/Pasted image 20241002181936.png",
     "Biometric Systems/images/Pasted image 20241002181932.png",
     "Biometric Systems/images/Pasted image 20241002135922.png",
-    "Biometric Systems/final notes/2. Performance indexes.md",
     "BUCA/Queues.md",
     "BUCA",
     "Autonomous Networking/images/Pasted image 20241011191033.png",
@@ -202,8 +201,7 @@
     "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/images",
     "Autonomous Networking/notes",
-    "Autonomous Networking/slides",
-    "Biometric Systems/final notes/1. Introduction.md",
+    "Biometric Systems/notes/1. Introduction.md",
     "Biometric Systems/slides/lezione1 notes.md",
     "prova per obsidian.md",
     "Senza nome.canvas"
