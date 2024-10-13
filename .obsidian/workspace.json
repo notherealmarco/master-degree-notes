@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9d91d379fdd97b34",
+        "id": "ee1680277f6a0d97",
         "type": "tabs",
         "children": [
           {
-            "id": "973769883c6ae443",
+            "id": "8d8de4cd4c80f0f8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Biometric Systems/notes/2. Performance indexes.md",
-                "staged": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "708a5933e5de1e88",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b95c6a3bd8dada7d",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Biometric Systems/final notes/2. Performance indexes.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biometric Systems/notes/2. Performance indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biometric Systems/notes/2. Performance indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biometric Systems/notes/2. Performance indexes.md"
+              }
             }
           },
           {
@@ -171,10 +159,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "973769883c6ae443",
+  "active": "8d8de4cd4c80f0f8",
   "lastOpenFiles": [
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
     "Biometric Systems/notes/2. Performance indexes.md",
+    "Biometric Systems/notes/1. Introduction.md",
     "Autonomous Networking/notes/4 WSN Routing.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
     "Autonomous Networking/images/Pasted image 20241012174130.png",
@@ -201,7 +190,6 @@
     "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/images",
     "Autonomous Networking/notes",
-    "Biometric Systems/notes/1. Introduction.md",
     "Biometric Systems/slides/lezione1 notes.md",
     "prova per obsidian.md",
     "Senza nome.canvas"
