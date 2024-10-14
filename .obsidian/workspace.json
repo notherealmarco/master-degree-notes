@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "457b1626aad25933",
+    "id": "9c5b007ab74924bc",
     "type": "split",
     "children": [
       {
-        "id": "1f52c0279712e3d2",
+        "id": "ee1680277f6a0d97",
         "type": "tabs",
         "children": [
           {
-            "id": "e23f9dfc04a75f51",
+            "id": "8d8de4cd4c80f0f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
+                "file": "Foundation of data science/notes/1 CV Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a3cb9001ef6ba4d",
+    "id": "e2078ffa3de56c07",
     "type": "split",
     "children": [
       {
-        "id": "c0a60ed96ba06609",
+        "id": "d86cb8d8115f9e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5551c2fd0314c8",
+            "id": "2b2245f56092006e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "a4bcc1c786569338",
+            "id": "954699747dc12b5e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2dfc44e60fc51bbe",
+            "id": "71e92c2ed6f6f21c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "11560c155f3d8f6e",
+    "id": "bc4b945ded1926e3",
     "type": "split",
     "children": [
       {
-        "id": "95208597e1d680ae",
+        "id": "00a3201508c9b6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3c35a40edfa1f381",
+            "id": "34cc5dc90419b254",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
+                "file": "Foundation of data science/notes/1 CV Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "926b8cdb0ccf5242",
+            "id": "f4a0915b879a43cd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
+                "file": "Foundation of data science/notes/1 CV Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9fbde0b1f6b76a5d",
+            "id": "c12ba700d0604b95",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "7745bbb89c3a5344",
+            "id": "77997770a5699d72",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN pt. 2.md"
+                "file": "Foundation of data science/notes/1 CV Basics.md"
               }
             }
           },
           {
-            "id": "b5d8a3515919e28a",
+            "id": "0d5325c0f9289cea",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,60 +142,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
       "obsidian-ocr:Search OCR": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "e23f9dfc04a75f51",
+=======
+  "active": "0d5325c0f9289cea",
+>>>>>>> origin/main
   "lastOpenFiles": [
+    "Foundation of data science/slides/IP CV Basics.pdf",
+    "Foundation of data science/slides/notes 2.md",
+    "Foundation of data science/slides/Untitled.md",
+    "Foundation of data science/notes/1 CV Basics.md",
+    "Biometric Systems/notes/2. Performance indexes.md",
+    "Foundation of data science/notes",
+    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
+    "Biometric Systems/notes/1. Introduction.md",
+    "Autonomous Networking/notes/4 WSN Routing.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
-    "Untitled.md",
-    "Autonomous Networking/notes/4 WSN pt. 2.md",
+    "Autonomous Networking/images/Pasted image 20241012174130.png",
+    "Autonomous Networking/notes/3 WSN MAC.md",
+    "Autonomous Networking/images/Pasted image 20241012182403.png",
+    "Autonomous Networking/images/Pasted image 20241012175224.png",
+    "Autonomous Networking/slides/3 WSN.pdf",
+    "conflict-files-obsidian-git.md",
+    "Autonomous Networking/slides/2 RFID.pdf",
+    "Foundation of data science/slides/FDS_intro_new.pdf",
+    "Foundation of data science/slides",
+    "Foundation of data science",
+    "Biometric Systems/images/Pasted image 20241002181936.png",
+    "Biometric Systems/images/Pasted image 20241002181932.png",
+    "Biometric Systems/images/Pasted image 20241002135922.png",
+    "BUCA/Queues.md",
+    "BUCA",
     "Autonomous Networking/images/Pasted image 20241011191033.png",
     "Autonomous Networking/images/Pasted image 20241011182343.png",
     "Autonomous Networking/images/Pasted image 20241011182036.png",
     "Autonomous Networking/images/Pasted image 20241011182031.png",
-    "Autonomous Networking/images/Pasted image 20241011180413.png",
-    "Autonomous Networking/images/Pasted image 20241011175026.png",
-    "Autonomous Networking/notes/3 WSN.md",
-    "Autonomous Networking/slides/3 WSN.pdf",
     "Autonomous Networking/notes/2 RFID.md",
-    "BUCA/Queues.md",
-    "BUCA",
-    "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
-    "Biometric Systems/final notes/2. Performance indexes.md",
-    "Autonomous Networking/images/Pasted image 20241002235837.png",
-    "().md",
-    "a.md",
-    "[[[LEZIONE2_Indici_di_prestazione.pdf.md",
-    "[LEZIONE2_Indici_di_prestazione.pdf.md",
-    "Autonomous Networking/images/Pasted image 20241002235555.png",
-    "Autonomous Networking/images/Pasted image 20241002235259.png",
-    "Autonomous Networking/images/Pasted image 20241002235016.png",
-    "Biometric Systems/final notes/1. Introduction.md",
-    "Foundation of data science/slides/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Autonomous Networking/slides/2 RFID.pdf",
-    "Autonomous Networking/slides",
-    "Autonomous Networking/notes",
     "Autonomous Networking/images",
-    "Autonomous Networking",
-    "Foundation of data science/slides/notes 2.md",
-    "Foundation of data science/slides/FDS_intro_new.pdf",
     "Biometric Systems/slides/lezione1 notes.md",
-    "Untitled.canvas"
+    "prova per obsidian.md",
+    "Senza nome.canvas"
   ]
 }
