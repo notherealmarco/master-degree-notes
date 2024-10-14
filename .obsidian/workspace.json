@@ -159,43 +159,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "c11cc165af78efc3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2666a13ed8f30641",
-        "type": "window",
-        "children": [
-          {
-            "id": "24baa570d7787193",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6d3383612587063d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Autonomous Networking/notes/4 WSN pt. 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 864,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e23f9dfc04a75f51",
   "lastOpenFiles": [
     "Autonomous Networking/slides/4 WSN2.pdf",
