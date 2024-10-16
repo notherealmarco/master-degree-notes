@@ -11,11 +11,9 @@
             "id": "6d4343be199e576a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Biometric Systems/notes/3. Recognition Reliability.md",
-                "mode": "source",
-                "source": false
+                "file": "Biometric Systems/images/Pasted image 20241016174417.png"
               }
             }
           },
@@ -84,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "11560c155f3d8f6e",
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biometric Systems/notes/3. Recognition Reliability.md",
+                "file": "Biometric Systems/images/Pasted image 20241016174417.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biometric Systems/notes/3. Recognition Reliability.md",
+                "file": "Biometric Systems/images/Pasted image 20241016174417.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biometric Systems/notes/3. Recognition Reliability.md"
+                "file": "Biometric Systems/images/Pasted image 20241016174417.png"
               }
             }
           },
@@ -175,15 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d4343be199e576a",
+  "active": "5d5551c2fd0314c8",
   "lastOpenFiles": [
-    "Biometric Systems/slides/LEZIONE3_Affidabilita_del_riconoscimento.pdf",
     "Biometric Systems/notes/3. Recognition Reliability.md",
-    "Pasted image 20241016174417.png",
-    "Pasted image 20241016174411.png",
-    "Pasted image 20241016174120.png",
-    "Pasted image 20241016143112.png",
-    "Pasted image 20241016141746.png",
+    "Biometric Systems/slides/LEZIONE3_Affidabilita_del_riconoscimento.pdf",
+    "Biometric Systems/images/Pasted image 20241016174417.png",
+    "Biometric Systems/images/Pasted image 20241016174411.png",
+    "Biometric Systems/images/Pasted image 20241016174120.png",
+    "Biometric Systems/images/Pasted image 20241016143112.png",
+    "Biometric Systems/images/Pasted image 20241016141746.png",
     "Foundation of data science/slides/IP CV Basics.pdf",
     "Foundation of data science/notes/1 CV Basics.md",
     "Foundation of data science/slides/Untitled.md",
