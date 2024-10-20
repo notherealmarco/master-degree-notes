@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ed64efefb09317f",
+        "id": "381b669928317be4",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4343be199e576a",
+            "id": "6253f413423c2998",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Biometric Systems/images/Pasted image 20241016174417.png"
-              }
-            }
-          },
-          {
-            "id": "924948579db1cec9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Biometric Systems/slides/LEZIONE3_Affidabilita_del_riconoscimento.pdf",
-                "page": 29,
-                "left": -4,
-                "top": 89,
-                "zoom": 0.8
-              }
+                "file": "Foundation of data science/notes/1 CV Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 CV Basics"
             }
           }
         ],
@@ -52,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biometric Systems/images/Pasted image 20241016174417.png",
+                "file": "6 Internet of Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6 Internet of Things"
             }
           },
           {
@@ -115,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biometric Systems/images/Pasted image 20241016174417.png",
+                "file": "6 Internet of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6 Internet of Things"
             }
           },
           {
@@ -129,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biometric Systems/images/Pasted image 20241016174417.png"
-              }
+                "file": "6 Internet of Things.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6 Internet of Things"
             }
           },
           {
@@ -147,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -172,15 +178,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d5551c2fd0314c8",
+  "active": "b5d8a3515919e28a",
   "lastOpenFiles": [
+    "Autonomous Networking/images/Pasted image 20241017161803.png",
+    "Autonomous Networking/images/Pasted image 20241017161747.png",
+    "Autonomous Networking/images/Pasted image 20241017161744.png",
+    "Autonomous Networking/images/Pasted image 20241017161724.png",
+    "Autonomous Networking/images/Pasted image 20241017154152.png",
+    "Biometric Systems/images/Pasted image 20241017083255.png",
+    "Biometric Systems/images/Pasted image 20241017083943.png",
+    "Biometric Systems/images/Pasted image 20241017083506.png",
+    "Autonomous Networking/notes/6.1 RL.md",
+    "Autonomous Networking/notes/6 Internet of Things.md",
+    "Autonomous Networking/notes/5 Drones.md",
+    "Autonomous Networking/slides/5 Drones.pdf",
+    "Biometric Systems/notes/4. Face recognition.md",
+    "Biometric Systems/slides/LEZIONE4_Face introduction and localization.pdf",
     "Biometric Systems/notes/3. Recognition Reliability.md",
     "Biometric Systems/slides/LEZIONE3_Affidabilita_del_riconoscimento.pdf",
     "Biometric Systems/images/Pasted image 20241016174417.png",
     "Biometric Systems/images/Pasted image 20241016174411.png",
-    "Biometric Systems/images/Pasted image 20241016174120.png",
-    "Biometric Systems/images/Pasted image 20241016143112.png",
-    "Biometric Systems/images/Pasted image 20241016141746.png",
     "Foundation of data science/slides/IP CV Basics.pdf",
     "Foundation of data science/notes/1 CV Basics.md",
     "Foundation of data science/slides/Untitled.md",
@@ -193,12 +210,6 @@
     "Biometric Systems/notes",
     "Autonomous Networking/notes/4 WSN Routing.md",
     "Autonomous Networking/notes/3 WSN MAC.md",
-    "Autonomous Networking/images/Pasted image 20241012182403.png",
-    "Autonomous Networking/images/Pasted image 20241012175224.png",
-    "Autonomous Networking/images/Pasted image 20241012174130.png",
-    "Untitled.md",
-    "Autonomous Networking/images/Pasted image 20241011191033.png",
-    "Autonomous Networking/images/Pasted image 20241011182343.png",
     "Autonomous Networking/notes/3 WSN.md",
     "Autonomous Networking/slides/3 WSN.pdf",
     "Autonomous Networking/notes/2 RFID.md",
@@ -211,8 +222,6 @@
     "[[[LEZIONE2_Indici_di_prestazione.pdf.md",
     "[LEZIONE2_Indici_di_prestazione.pdf.md",
     "Biometric Systems/final notes/1. Introduction.md",
-    "Autonomous Networking/slides/2 RFID.pdf",
-    "Autonomous Networking/slides",
     "Foundation of data science/slides/notes 2.md",
     "Biometric Systems/slides/lezione1 notes.md",
     "Untitled.canvas"
