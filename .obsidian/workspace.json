@@ -18,8 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62ee7b4dbafbf11b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Biometric Systems/notes/3. Recognition Reliability.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Autonomous Networking/notes/4 WSN Routing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,18 +167,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b2245f56092006e",
+  "active": "62ee7b4dbafbf11b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Autonomous Networking/notes/4 WSN Routing.md",
+    "Biometric Systems/slides/LEZIONE4_Face introduction and localization.pdf",
+    "Biometric Systems/notes/4. Face recognition.md",
+    "Biometric Systems/images/Pasted image 20241017083943.png",
+    "Biometric Systems/images/Pasted image 20241017083506.png",
+    "Biometric Systems/images/Pasted image 20241017083255.png",
+    "Autonomous Networking/slides/5 Drones.pdf",
+    "Autonomous Networking/notes/6.1 RL.md",
+    "Autonomous Networking/notes/6 Internet of Things.md",
+    "Autonomous Networking/notes/5 Drones.md",
+    "Autonomous Networking/images/Pasted image 20241017161803.png",
+    "Autonomous Networking/images/Pasted image 20241017161747.png",
+    "Autonomous Networking/images/Pasted image 20241017161744.png",
+    "Autonomous Networking/images/Pasted image 20241017161724.png",
+    "Autonomous Networking/images/Pasted image 20241017154152.png",
     "Foundation of data science/slides/Untitled.md",
     "Biometric Systems/slides/LEZIONE3_Affidabilita_del_riconoscimento.pdf",
     "Biometric Systems/notes/3. Recognition Reliability.md",
     "Biometric Systems/images/Pasted image 20241016174417.png",
     "Biometric Systems/images/Pasted image 20241016174411.png",
-    "Biometric Systems/images/Pasted image 20241016174120.png",
-    "Biometric Systems/images/Pasted image 20241016143112.png",
-    "Biometric Systems/images/Pasted image 20241016141746.png",
     "Autonomous Networking/notes/3 WSN MAC.md",
     "Autonomous Networking/notes/2 RFID.md",
     "Foundation of data science/notes/1 CV Basics.md",
@@ -181,16 +200,9 @@
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
     "Biometric Systems/notes/1. Introduction.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
-    "Autonomous Networking/images/Pasted image 20241012174130.png",
-    "Autonomous Networking/images/Pasted image 20241012182403.png",
-    "Autonomous Networking/images/Pasted image 20241012175224.png",
     "Autonomous Networking/slides/3 WSN.pdf",
     "Autonomous Networking/slides/2 RFID.pdf",
     "Foundation of data science/slides/FDS_intro_new.pdf",
-    "Foundation of data science/slides",
-    "Foundation of data science",
-    "Biometric Systems/images/Pasted image 20241002181936.png",
-    "Biometric Systems/images/Pasted image 20241002181932.png",
     "BUCA/Queues.md",
     "Biometric Systems/slides/lezione1 notes.md",
     "prova per obsidian.md",
