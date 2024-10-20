@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation of data science/notes/1 CV Basics.md",
+                "file": "Autonomous Networking/notes/4 WSN Routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundation of data science/notes/1 CV Basics.md",
+                "file": "Autonomous Networking/notes/4 WSN Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundation of data science/notes/1 CV Basics.md",
+                "file": "Autonomous Networking/notes/4 WSN Routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundation of data science/notes/1 CV Basics.md"
+                "file": "Autonomous Networking/notes/4 WSN Routing.md"
               }
             }
           },
@@ -159,12 +159,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d5325c0f9289cea",
+  "active": "8d8de4cd4c80f0f8",
   "lastOpenFiles": [
+    "Autonomous Networking/notes/3 WSN MAC.md",
+    "Autonomous Networking/notes/2 RFID.md",
+    "Foundation of data science/notes/1 CV Basics.md",
     "Foundation of data science/slides/IP CV Basics.pdf",
     "Foundation of data science/slides/notes 2.md",
     "Foundation of data science/slides/Untitled.md",
-    "Foundation of data science/notes/1 CV Basics.md",
     "Biometric Systems/notes/2. Performance indexes.md",
     "Foundation of data science/notes",
     "Biometric Systems/slides/LEZIONE2_Indici_di_prestazione.pdf",
@@ -172,7 +174,6 @@
     "Autonomous Networking/notes/4 WSN Routing.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
     "Autonomous Networking/images/Pasted image 20241012174130.png",
-    "Autonomous Networking/notes/3 WSN MAC.md",
     "Autonomous Networking/images/Pasted image 20241012182403.png",
     "Autonomous Networking/images/Pasted image 20241012175224.png",
     "Autonomous Networking/slides/3 WSN.pdf",
@@ -190,8 +191,6 @@
     "Autonomous Networking/images/Pasted image 20241011182343.png",
     "Autonomous Networking/images/Pasted image 20241011182036.png",
     "Autonomous Networking/images/Pasted image 20241011182031.png",
-    "Autonomous Networking/notes/2 RFID.md",
-    "Autonomous Networking/images",
     "Biometric Systems/slides/lezione1 notes.md",
     "prova per obsidian.md",
     "Senza nome.canvas"
