@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1 CV Basics"
             }
+          },
+          {
+            "id": "223656f305be45b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -178,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6253f413423c2998",
+  "active": "223656f305be45b9",
   "lastOpenFiles": [
+    "Foundation of data science/notes/1 CV Basics.md",
+    "conflict-files-obsidian-git.md",
     "Autonomous Networking/images/Pasted image 20241017161803.png",
     "Autonomous Networking/images/Pasted image 20241017161747.png",
     "Autonomous Networking/images/Pasted image 20241017161744.png",
@@ -199,10 +216,8 @@
     "Biometric Systems/images/Pasted image 20241016174417.png",
     "Biometric Systems/images/Pasted image 20241016174411.png",
     "Foundation of data science/slides/IP CV Basics.pdf",
-    "Foundation of data science/notes/1 CV Basics.md",
     "Foundation of data science/slides/Untitled.md",
     "Autonomous Networking/slides/4 WSN2.pdf",
-    "conflict-files-obsidian-git.md",
     "Autonomous Networking/notes/4 WSN pt. 2.md",
     "Foundation of data science/notes",
     "Biometric Systems/notes/2. Performance indexes.md",
