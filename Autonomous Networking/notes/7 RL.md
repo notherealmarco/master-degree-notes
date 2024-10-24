@@ -84,13 +84,13 @@ exploration vs exploitation dilemma:
 - emits observation Ot
 - emits scalar reward Rt
 
-
-
 **agent state:** the view of the agent on the environment state, is a function of history
-- the function of the history is involved in taking the next decision
-- the state representation defines what happens next
-- ...
-
+- the history is involved in taking the next decision:
+	- agent selects actions
+	- environment selects observations/rewards
+- the state information is used to determine what happens next
+	- state is a function of history: $S_t = f(H_t)$
+	
 #### Inside the agent
 one or more of these components
 - **Policy:** agent's behavior function
@@ -107,9 +107,10 @@ one or more of these components
 	- is a prediction of future reward
 	- used to evaluate the goodness/badness of states
 	- values are prediction of rewards
-	- Vp(s) = Ep[yRt+1 + y^2Rt+2 ... | St = s]
+	- $V_\pi(s) = Ep[yRt+1 + y^2Rt+2 ... | St = s]$
 - **Model:**
 	- predicts what the environment will do next
+	- may predict the resultant next state and/or the next reward
 	- many problems are model free
 
 back to the original problem:
