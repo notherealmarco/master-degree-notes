@@ -1,7 +1,7 @@
 IoT term is used to refer to
 - the resulting globlal network of connecting smart objects
-- the protocols ...
-- ...
+- technologies needed to realize such a vision
+- applications and services leveraging such technologies
 
 required features:
 - devices hetereogeneity
@@ -9,6 +9,11 @@ required features:
 - data ubiquitous data exchange
 - energy-optimized solutions
 
+key features:
+- localization and tracking (many applications require position and movement tracking)
+- self-organization capabilities (support ad-hoc networks)
+- semantic interoperability (standard formats for data)
+- embedded security and privacy-preserving mechanism
 
 #### Backscattering
 - allows devices to run without battery
@@ -16,7 +21,7 @@ required features:
 - use radio frequency signals as power source
 - two types
 	- ambient
-	- rfid
+	- RFID
 
 ##### Ambient backscattering
 - devices harvest power from signals available in the environment
@@ -29,13 +34,12 @@ required features:
 		- signal may not be available indoor or not powerful enough
 
 ##### RFID backscattering
-
-...
-
+- main advantage is the availability of RFID signal. Reader is always present in a RFID
 ##### Battery free smart home
 - in a smart home there may be a lot of smart devices
 - if every one of them has a battery, it's not good for the environment
 - we can deploy an RFID reader with multiple antennas that covers all the different rooms
+- of course RFID sensors can have very low capabilities, but they can run sensors!
 
 ### Communication
 add scheme slide
