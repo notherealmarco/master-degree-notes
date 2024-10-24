@@ -39,30 +39,24 @@
             "id": "0f6b9ae8038d6ee6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Autonomous Networking/slides/2 RFID.pdf",
-                "page": 44,
-                "left": -139,
-                "top": 104,
-                "zoom": 1
+                "file": "Biometric Systems/images/Pasted image 20241023133231.png"
               },
-              "icon": "lucide-file-text",
-              "title": "2 RFID"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241023133231"
             }
           },
           {
-            "id": "ecb69e773963ff71",
+            "id": "46b435f098a3c1ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Autonomous Networking/notes/4 WSN Routing.md",
-                "mode": "source",
-                "source": false
+                "file": "Biometric Systems/images/Pasted image 20241023133231.png"
               },
-              "icon": "lucide-file",
-              "title": "4 WSN Routing"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241023133231"
             }
           }
         ],
@@ -222,21 +216,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d5325c0f9289cea",
+  "active": "2b2245f56092006e",
   "lastOpenFiles": [
-    "Autonomous Networking/notes/4 WSN Routing.md",
+    "Biometric Systems/images/Pasted image 20241023135125.png",
+    "Biometric Systems/images/Pasted image 20241023133231.png",
+    "Biometric Systems/images/Pasted image 20241023135925.png",
+    "Biometric Systems/images/Pasted image 20241023135127.png",
+    "Biometric Systems/images/Pasted image 20241023135922.png",
+    "Biometric Systems/images/Pasted image 20241023135924.png",
+    "Biometric Systems/images/Pasted image 20241023140250.png",
+    "Biometric Systems/images/Pasted image 20241023141948.png",
+    "Biometric Systems/images/Pasted image 20241023144725.png",
+    "Biometric Systems/images/Pasted image 20241024090856.png",
+    "Biometric Systems/images/Pasted image 20241024091235.png",
+    "Autonomous Networking/notes/3 WSN MAC.md",
+    "Autonomous Networking/slides/2 RFID.pdf",
     "conflict-files-obsidian-git.md",
+    "Autonomous Networking/notes/4 WSN Routing.md",
     "Autonomous Networking/notes/6.1 RL.md",
-    "Pasted image 20241024100002.png",
-    "Pasted image 20241024095704.png",
-    "Pasted image 20241024094223.png",
-    "Pasted image 20241024093000.png",
-    "Pasted image 20241024092903.png",
-    "Pasted image 20241024092146.png",
-    "Pasted image 20241024091511.png",
-    "Pasted image 20241024091446.png",
-    "Pasted image 20241024091433.png",
-    "Pasted image 20241024091235.png",
     "Biometric Systems/slides/LEZIONE5_NEW_More about face localization.pdf",
     "Autonomous Networking/slides/7 RL1.pdf",
     "Autonomous Networking/slides/6 IoT.pdf",
@@ -244,8 +241,6 @@
     "Autonomous Networking/slides/3 WSN.pdf",
     "Autonomous Networking/slides/4 WSN2.pdf",
     "Autonomous Networking/notes/6 Internet of Things.md",
-    "Autonomous Networking/slides/2 RFID.pdf",
-    "Autonomous Networking/notes/3 WSN MAC.md",
     "Autonomous Networking/notes/2 RFID.md",
     "Autonomous Networking/notes/5 Drones.md",
     "Biometric Systems/slides/LEZIONE4_Face introduction and localization.pdf",
